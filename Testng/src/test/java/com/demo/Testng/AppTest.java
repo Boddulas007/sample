@@ -11,7 +11,7 @@ public class AppTest {
     
   @Test
   public void Logintest() {
-	  System.setProperty("webdriver.chrome.driver","C:\\Users\\$@i\\Desktop\\chrome driver win32\\chromedriver_win32\\chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver","C:\\Users\\$@i\\Desktop\\chrome driver win32\\chromedriver1_win32\\chromedriver.exe");
 	  
 	  // Instantiate a ChromeDriver class.     
 	  WebDriver driver=new ChromeDriver();  
